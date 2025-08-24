@@ -36,9 +36,9 @@ It provides a clean UI for managing items, calculating totals, and generating fi
 
 ```bash
 
-git clone https://github.com/your-username/HelloFX.git
+git clone https://github.com/your-username/java-bar-billing-system.git
 
-cd HelloFX
+cd java-bar-billing-system
 
 
 
@@ -78,7 +78,7 @@ Eclipse / IntelliJ IDEA (recommended for running)
 
 
 
-HelloFX/
+java-bar-billing-system/
 
 │── src/
 
